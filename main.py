@@ -2,6 +2,7 @@ import webbrowser
 
 from fpdf import FPDF
 
+
 class Bill:
     """
     Object that contains data about the bill, such as the total amount and the period of the bill.
